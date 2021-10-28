@@ -1,0 +1,8 @@
+﻿  pyexpat.c
+  xmlparse.c
+  xmlrole.c
+  xmltok.c
+     Создается библиотека C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\win32\pyexpat.lib и объект C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\win32\pyexpat.exp
+  Создание кода
+  Создание кода завершено
+  pyexpat.vcxproj -> C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\win32\pyexpat.pyd

@@ -1,0 +1,12 @@
+﻿  _ctypes.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_ctypes\_ctypes.c(107,10): fatal error C1083: Не удается открыть файл включение: ffi.h: No such file or directory,
+  callbacks.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_ctypes\callbacks.c(6,10): fatal error C1083: Не удается открыть файл включение: ffi.h: No such file or directory,
+  callproc.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_ctypes\callproc.c(77,10): fatal error C1083: Не удается открыть файл включение: ffi.h: No such file or directory,
+  cfield.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_ctypes\cfield.c(4,10): fatal error C1083: Не удается открыть файл включение: ffi.h: No such file or directory,
+  malloc_closure.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_ctypes\malloc_closure.c(2,10): fatal error C1083: Не удается открыть файл включение: ffi.h: No such file or directory,
+  stgdict.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_ctypes\stgdict.c(2,10): fatal error C1083: Не удается открыть файл включение: ffi.h: No such file or directory,

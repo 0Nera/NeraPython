@@ -1,0 +1,2 @@
+﻿  _lzmamodule.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_lzmamodule.c(16,10): fatal error C1083: Не удается открыть файл включение: lzma.h: No such file or directory,

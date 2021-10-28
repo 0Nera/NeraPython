@@ -1,0 +1,2 @@
+﻿  _hashopenssl.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_hashopenssl.c(28,10): fatal error C1083: Не удается открыть файл включение: openssl/evp.h: No such file or directory,

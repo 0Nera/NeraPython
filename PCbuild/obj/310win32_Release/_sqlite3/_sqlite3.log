@@ -1,0 +1,14 @@
+﻿  connection.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_sqlite\connection.h(34,10): fatal error C1083: Не удается открыть файл включение: sqlite3.h: No such file or directory,
+  cursor.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_sqlite\connection.h(34,10): fatal error C1083: Не удается открыть файл включение: sqlite3.h: No such file or directory,
+  microprotocols.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_sqlite\connection.h(34,10): fatal error C1083: Не удается открыть файл включение: sqlite3.h: No such file or directory,
+  module.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_sqlite\connection.h(34,10): fatal error C1083: Не удается открыть файл включение: sqlite3.h: No such file or directory,
+  row.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_sqlite\connection.h(34,10): fatal error C1083: Не удается открыть файл включение: sqlite3.h: No such file or directory,
+  statement.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_sqlite\connection.h(34,10): fatal error C1083: Не удается открыть файл включение: sqlite3.h: No such file or directory,
+  util.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_sqlite\connection.h(34,10): fatal error C1083: Не удается открыть файл включение: sqlite3.h: No such file or directory,

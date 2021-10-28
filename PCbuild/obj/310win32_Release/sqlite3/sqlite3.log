@@ -1,0 +1,2 @@
+﻿  sqlite3.c
+c1 : fatal error C1083: Не удается открыть файл источник: C:\Users\0Nera\Desktop\Python-3.10.0\externals\sqlite-3.35.5.0\sqlite3.c: No such file or directory,

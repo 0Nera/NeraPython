@@ -1,0 +1,21 @@
+﻿  python.c
+  Создание кода
+  Создание кода завершено
+  python.vcxproj -> C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\win32\python.exe
+  Traceback (most recent call last):
+    File "C:\Users\0Nera\Desktop\Python-3.10.0\PC\validate_ucrtbase.py", line 8, in <module>
+      from ctypes import (c_buffer, POINTER, byref, create_unicode_buffer,
+    File "C:\Users\0Nera\Desktop\Python-3.10.0\Lib\ctypes\__init__.py", line 8, in <module>
+      from _ctypes import Union, Structure, Array
+  ModuleNotFoundError: No module named '_ctypes'
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\python.vcxproj(125,5): warning MSB3073: выход из команды "setlocal
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\python.vcxproj(125,5): warning MSB3073: set PYTHONPATH=C:\Users\0Nera\Desktop\Python-3.10.0\Lib
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\python.vcxproj(125,5): warning MSB3073: "C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\win32\python.exe" "C:\Users\0Nera\Desktop\Python-3.10.0\PC\validate_ucrtbase.py" ucrtbase" с кодом 1.
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\python.vcxproj(125,5): warning MSB4181: задача "Exec" возвратила значение false, но не зарегистрировала ошибку.
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\regen.targets(108,5): warning : License file C:\Users\0Nera\Desktop\Python-3.10.0\externals\bzip2-1.0.6\LICENSE is missing
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\regen.targets(108,5): warning : License file C:\Users\0Nera\Desktop\Python-3.10.0\externals\openssl-bin-1.1.1l\win32\LICENSE is missing
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\regen.targets(108,5): warning : License file C:\Users\0Nera\Desktop\Python-3.10.0\externals\libffi-3.3.0\LICENSE is missing
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\regen.targets(108,5): warning : License file C:\Users\0Nera\Desktop\Python-3.10.0\externals\tcltk-8.6.11.0\win32\tcllicense.terms is missing
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\regen.targets(108,5): warning : License file C:\Users\0Nera\Desktop\Python-3.10.0\externals\tcltk-8.6.11.0\win32\tklicense.terms is missing
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\regen.targets(108,5): warning : License file C:\Users\0Nera\Desktop\Python-3.10.0\externals\tcltk-8.6.11.0\win32\tixlicense.terms is missing
+  Wrote C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\win32\LICENSE.txt

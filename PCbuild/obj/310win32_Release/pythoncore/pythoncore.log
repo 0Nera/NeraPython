@@ -1,0 +1,19 @@
+﻿  Killing any running python.exe instances...
+  Generated sources are up to date
+  Getting build info from git
+  fatal: not a git repository (or any of the parent directories): .git
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\pythoncore.vcxproj(530,5): warning MSB3073: выход из команды "git name-rev --name-only HEAD > "C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\obj\310win32_Release\pythoncore\gitbranch.txt"" с кодом 128.
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\pythoncore.vcxproj(530,5): warning MSB4181: задача "Exec" возвратила значение false, но не зарегистрировала ошибку.
+  fatal: not a git repository (or any of the parent directories): .git
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\pythoncore.vcxproj(531,5): warning MSB3073: выход из команды "git rev-parse --short HEAD > "C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\obj\310win32_Release\pythoncore\gitversion.txt"" с кодом 128.
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\pythoncore.vcxproj(531,5): warning MSB4181: задача "Exec" возвратила значение false, но не зарегистрировала ошибку.
+  fatal: not a git repository (or any of the parent directories): .git
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\pythoncore.vcxproj(532,5): warning MSB3073: выход из команды "git describe --all --always --dirty > "C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\obj\310win32_Release\pythoncore\gittag.txt"" с кодом 128.
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\pythoncore.vcxproj(532,5): warning MSB4181: задача "Exec" возвратила значение false, но не зарегистрировала ошибку.
+  Building : 
+C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\pythoncore.vcxproj(549,5): warning : Not including zlib is not a supported configuration.
+  main.c
+     Создается библиотека C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\win32\python310.lib и объект C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\win32\python310.exp
+  Создание кода
+  Создание кода завершено
+  pythoncore.vcxproj -> C:\Users\0Nera\Desktop\Python-3.10.0\PCbuild\win32\python310.dll

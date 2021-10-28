@@ -1,0 +1,16 @@
+﻿  _bz2module.c
+C:\Users\0Nera\Desktop\Python-3.10.0\Modules\_bz2module.c(8,10): fatal error C1083: Не удается открыть файл включение: bzlib.h: No such file or directory,
+  blocksort.c
+c1 : fatal error C1083: Не удается открыть файл источник: C:\Users\0Nera\Desktop\Python-3.10.0\externals\bzip2-1.0.6\blocksort.c: No such file or directory,
+  bzlib.c
+c1 : fatal error C1083: Не удается открыть файл источник: C:\Users\0Nera\Desktop\Python-3.10.0\externals\bzip2-1.0.6\bzlib.c: No such file or directory,
+  compress.c
+c1 : fatal error C1083: Не удается открыть файл источник: C:\Users\0Nera\Desktop\Python-3.10.0\externals\bzip2-1.0.6\compress.c: No such file or directory,
+  crctable.c
+c1 : fatal error C1083: Не удается открыть файл источник: C:\Users\0Nera\Desktop\Python-3.10.0\externals\bzip2-1.0.6\crctable.c: No such file or directory,
+  decompress.c
+c1 : fatal error C1083: Не удается открыть файл источник: C:\Users\0Nera\Desktop\Python-3.10.0\externals\bzip2-1.0.6\decompress.c: No such file or directory,
+  huffman.c
+c1 : fatal error C1083: Не удается открыть файл источник: C:\Users\0Nera\Desktop\Python-3.10.0\externals\bzip2-1.0.6\huffman.c: No such file or directory,
+  randtable.c
+c1 : fatal error C1083: Не удается открыть файл источник: C:\Users\0Nera\Desktop\Python-3.10.0\externals\bzip2-1.0.6\randtable.c: No such file or directory,
